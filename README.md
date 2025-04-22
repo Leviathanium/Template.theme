@@ -21,8 +21,9 @@ This repository contains a template for creating themes for NextUI devices.
 1. Replace the placeholder `preview.png` with a 640×480 preview of your theme
 2. Update the `manifest.json` with your theme information (name, author, etc.)
 3. Add your wallpapers, icons, fonts, and overlays to their respective directories
-4. Update the `content` section in `manifest.json` to reflect what your theme includes
-5. When complete, commit your changes and update the `NextUI-Themes` catalog
+4. Update the `content` section in `manifest.json` to reflect what your theme includes. Specifically, set content to `true` or `false` depending on what you're including.
+5. When complete, commit your changes and push.
+6. Share your `.theme` repo with the NextUI community!
 
 ## Important Files
 
