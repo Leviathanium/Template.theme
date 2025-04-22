@@ -22,7 +22,7 @@
       "systems": []
     },
     "fonts": {
-      "present": false,
+      "present": true,
       "og_replaced": false,
       "next_replaced": false
     },
