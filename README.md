@@ -22,8 +22,9 @@ This repository contains a template for creating themes for NextUI devices.
 2. Update the `manifest.json` with your theme information (name, author, etc.)
 3. Add your wallpapers, icons, fonts, and overlays to their respective directories
 4. Update the `content` section in `manifest.json` to reflect what your theme includes. Specifically, set content to `true` or `false` depending on what you're including.
-5. When complete, commit your changes and push.
-6. Share your `.theme` repo with the NextUI community!
+5. Update your README.md if you want. You can also update your license if you want.
+6. When complete, commit your changes and push.
+7. Share your `.theme` repo with the NextUI community!
 
 ## Important Files
 
