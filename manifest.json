@@ -31,30 +31,7 @@
       "leds_included": true
     }
   },
-  "path_mappings": {
-    "wallpapers": [],
-    "icons": [],
-    "overlays": [],
-    "fonts": {
-      "OG": {
-        "theme_path": "Fonts/OG.ttf",
-        "system_path": "/mnt/SDCARD/.system/res/font2.ttf"
-      },
-      "Next": {
-        "theme_path": "Fonts/Next.ttf",
-        "system_path": "/mnt/SDCARD/.system/res/font1.ttf"
-      },
-      "OG.backup": {
-        "theme_path": "Fonts/OG.backup.ttf",
-        "system_path": "/mnt/SDCARD/.system/res/font2.backup.ttf"
-      },
-      "Next.backup": {
-        "theme_path": "Fonts/Next.backup.ttf",
-        "system_path": "/mnt/SDCARD/.system/res/font1.backup.ttf"
-      }
-    },
-    "settings": {}
-  },
+  "path_mappings": {},
   "accent_colors": {
     "color1": "0xFFFFFF",
     "color2": "0x9B2257",
