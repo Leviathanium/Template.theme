@@ -7,7 +7,8 @@ This repository contains a template for creating themes for NextUI devices.
 - `manifest.json` - Theme metadata and file mappings
 - `preview.png` - Theme preview image (replace with your preview)
 - `Wallpapers/` - Background images for all screens
-  - `SystemWallpapers/` - Main menu and system-specific backgrounds
+  - `SystemWallpapers/` - Main menu backgrounds
+  - `ListWallpapers/` - System-specific backgrounds
   - `CollectionWallpapers/` - Collection-specific backgrounds
 - `Icons/` - Icons for systems, tools, and collections
   - `SystemIcons/` - System and main menu icons
@@ -34,7 +35,8 @@ This repository contains a template for creating themes for NextUI devices.
 - `Wallpapers/SystemWallpapers/Recently Played.png` - Recently played list background
 - `Wallpapers/SystemWallpapers/Tools.png` - Tools menu background
 - `Wallpapers/SystemWallpapers/Collections.png` - Collections menu background
-- `Wallpapers/SystemWallpapers/Game Boy Advance (GBA).png` - System-specific background (include tag)
+- `Wallpapers/SystemWallpapers/Game Boy Advance (GBA).png` - Main menu background for specified system (include tag)
+- `Wallpapers/ListWallpapers/Game Boy Advance (GBA)-list.png` - System-specific background for list of games (include `-list.png` after tag)
 
 ### Icons
 
@@ -43,4 +45,6 @@ This repository contains a template for creating themes for NextUI devices.
 - `Icons/SystemIcons/Tools.png` - Tools menu icon
 - `Icons/SystemIcons/Game Boy Advance (GBA).png` - System-specific icon (include tag)
 
-## For more information, see the full theme documentation
+## For more information, see the [full theme documentation.](https://github.com/Leviathanium/NextUI-Theme-Manager)
+
+
