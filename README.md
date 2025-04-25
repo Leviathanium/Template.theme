@@ -45,6 +45,6 @@ This repository contains a template for creating themes for NextUI devices.
 - `Icons/SystemIcons/Tools.png` - Tools menu icon
 - `Icons/SystemIcons/Game Boy Advance (GBA).png` - System-specific icon (include tag)
 
-## For more information, see the [full theme documentation.](https://github.com/Leviathanium/NextUI-Theme-Manager)
+## For more information, see the [full theme documentation.](https://github.com/Leviathanium/NextUI-Theme-Manager/blob/main/documents/THEME_BUILDING.md)
 
 
